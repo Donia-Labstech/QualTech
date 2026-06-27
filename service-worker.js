@@ -1,10 +1,10 @@
 /* QualTech Service Worker — يفعّل إمكانية تثبيت التطبيق (PWA) ويوفّر تخزيناً مؤقتاً أساسياً.
-   ملاحظة: يجب رفع هذا الملف في المجلد الجذري نفسه الذي يحتوي على qualtech-irrigation.html
+   ملاحظة: يجب رفع هذا الملف في المجلد الجذري نفسه الذي يحتوي على index.html
    على استضافة حقيقية تدعم HTTPS (مثل Donialabstech.online) لكي يعمل تسجيل Service Worker وميزة "تثبيت التطبيق". */
 
-const CACHE_NAME = 'qualtech-cache-v1';
+const CACHE_NAME = 'qualtech-cache-v2';
 const ASSETS = [
-  './qualtech-irrigation.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',

@@ -2,7 +2,7 @@
   "name": "QualTech - نظام رصد التربة والري الذكي",
   "short_name": "QualTech",
   "description": "نظام ذكي لرصد رطوبة وحموضة وملوحة وعناصر التربة (NPK) والتحكم الآلي بالري — تطوير مختبر الأفكار الذكية DONIA LABS TECH",
-  "start_url": "./qualtech-irrigation.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
